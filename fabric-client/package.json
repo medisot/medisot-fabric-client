@@ -1,11 +1,12 @@
 {
-  "name": "fabric-client",
+  "name": "medisot-fabric-client",
   "description": "SDK for writing node.js applications to interact with Hyperledger Fabric. This package encapsulates the APIs to interact with Peers and Orderers of the Fabric network to install and instantiate chaincodes, send transaction invocations and perform chaincode queries.",
   "keywords": [
     "hyperledger",
-    "blockchain"
+    "blockchain",
+    "medisot"
   ],
-  "version": "1.4.6-snapshot",
+  "version": "1.0.1",
   "tag": "unstable-1.4",
   "main": "index.js",
   "scripts": {
