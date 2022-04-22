@@ -38,7 +38,7 @@
     "klaw": "^2.0.0",
     "long": "^4.0.0",
     "nano": "^6.4.4",
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.4",
     "protobufjs": "5.0.3",
     "promise-settle": "^0.3.0",
     "sjcl": "1.0.7",
